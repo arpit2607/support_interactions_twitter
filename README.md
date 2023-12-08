@@ -5,6 +5,7 @@ The central question of our research is, "How effective are customer support int
 
 # Dataset Description:
 The chosen dataset is from Kaggle, titled "Customer Support on Twitter." It contains over three million tweets and replies from some of the most prominent brands on Twitter. The dataset includes variables such as tweet ID, author ID, creation time, text of the tweet, and related response IDs. This dataset is suitable because it offers a comprehensive view of customer-brand interactions, allowing for a detailed analysis of support effectiveness, user engagement patterns, and communication styles.
+
 Dataset Link: https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
 
 # Steps to run code
