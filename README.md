@@ -8,6 +8,9 @@ The chosen dataset is from Kaggle, titled "Customer Support on Twitter." It cont
 Dataset Link: https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
 
 # Steps to run code
+
+Download the dataset from the above mentioned link and place it inside cloned repository where the ipynb notebook is present. 
+
 conda create --name venv
 
 conda activate venv
